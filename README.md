@@ -1,5 +1,5 @@
 # LampadaJS
 
-Projeto feirto com BootStrap5 no fronend 
-bacnend todo em JavaScript puro
+Projeto feito com BootStrap5 no frontend 
+backend todo em JavaScript puro
 
